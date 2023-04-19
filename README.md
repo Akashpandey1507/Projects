@@ -1,6 +1,7 @@
 Data Analyst RoadMap
 Work Of Data Analyst
 Capture
+![image](https://user-images.githubusercontent.com/124170332/233061940-46c6ea5d-066e-4bca-8013-c8adc51f5664.png)
 
 Capture
 
