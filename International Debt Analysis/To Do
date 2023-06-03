@@ -1,1 +1,85 @@
 
+                                                                   
+# Project Title 	Analyze International Debt Statistics
+# Technologies 	Business Intelligence
+# Domain 	Finance
+# Project Difficulties level 	Intermediate
+
+Problem Statement:
+It's not that we humans only take debts to manage our necessities. A country may also  take debt to manage its economy. For example, infrastructure spending is one costly  ingredient required for a country's citizens to lead comfortable lives. The World Bank is  the organization that provides debt to countries. 
+In this project, you are going to analyze international debt data collected by The World  Bank. The dataset contains information about the amount of debt (in USD) owed by  developing countries across several categories. You are going to find the answers to  questions like: 
+●	What is the total amount of debt that is owed by the countries listed in the  dataset? 
+●	 Which country owns the maximum amount of debt and what does that amount  look like? 
+●	 What is the average amount of debt owed by countries across different debt  indicators? 
+The data used in this project is provided by The World Bank. It contains both national  and regional debt statistics for several countries across the globe as recorded from 1970  to 2015. 
+
+Project Tasks:
+ 1. The World Bank's international debt data 
+2. Finding the number of distinct countries 
+3. Finding out the distinct debt indicators 
+4. Totaling the amount of debt owed by the countries 
+ 5. Country with the highest debt across indicators 
+6. The highest amount of principal repayments 
+7. The most common debt indicator 
+ 8. Other viable debt issues and conclusion 
+
+Dataset:
+You can find the dataset on the given link
+
+https://datacatalog.worldbank.org/dataset/international-debt-statistics
+
+Approaches:
+SQL, Tableau, Power BI or you can use any tools and techniques as per your convenience. We would appreciate your valid imagination in finding solutions
+
+Project Evaluation metrics:
+Code: 
+●	You are supposed to write a code in a modular fashion
+●	Safe: It can be used without causing harm.
+●	Testable: It can be tested at the code level.
+●	Maintainable: It can be maintained, even as your codebase grows.
+●	Portable: It works the same in every environment (operating system) 
+●	You have to maintain your code on GitHub.
+●	You have to keep your GitHub repo public so that anyone can check your code. 
+●	Proper readme file you have to maintain for any project development. 
+●	You should include basic workflow and execution of the entire project in the readme file on GitHub 
+●	Follow the coding standards: https://www.python.org/dev/peps/pep-0008/
+ 
+
+Submission requirements: 
+High-level Document: 
+You have to create a high-level document design for your project. You can reference the HLD form below the link. 
+Sample link: 
+HLD Document Link
+
+Low-level document: 
+You have to create a Low-level document design for your project; you can refer to the LLD from the below link. 
+Sample link
+LLD Document Link
+
+Architecture: You have to create an Architecture document design for your project; you can refer to the Architecture from the below link. 
+Sample link
+Architecture  sample link 
+
+Wireframe: You have to create a Wireframe document design for your project; refer to the Wireframe from the below link.
+Demo link
+Wireframe Document Link
+
+Project code:
+You have to submit your code GitHub repo in your dashboard when the final submission of your project. 
+Demo link
+Project code sample link :
+
+Detail project report:
+You have to create a detailed project report and submit that document as per the given sample. 
+Demo link
+DPR sample link 
+Project demo video:
+You have to record a project demo video for at least 5 Minutes and submit that link as per the given demo. 
+Demo link
+Project sample  link :
+
+
+The project LinkedIn a post: 
+You have to post your project detail on LinkedIn and submit that post link in your dashboard in your respective field. 
+Demo link
+Linkedin post sample  link :
